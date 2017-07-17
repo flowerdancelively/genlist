@@ -1,0 +1,2 @@
+# genlist
+datastruct implementation 
